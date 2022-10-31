@@ -7,5 +7,6 @@ Curso de Platzi.
 * Se ponen listas con puntos
 * Lista
 * Lista
+* Creadoo por el increible alexis.
 
 Este es un **texto en negritas**. Ahora agregamos un texto con un hipervínculo para ir a [youtube](https://youtube.com).
